@@ -2,10 +2,11 @@
 title: Ruslan Dautov
 email: 
 description: > 
-     Office 614,
+     Shenzhen Unversity,
      Institute of Big Data Technology and Applications,
      College of Computer Science and Software Engineering,
-     Shenzhen Unversity
+     Office 614
+     
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dautovri.github.io" # the base hostname & protocol for your site
 twitter_username: 
