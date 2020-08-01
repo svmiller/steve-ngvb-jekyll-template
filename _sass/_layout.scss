@@ -167,7 +167,7 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 
@@ -183,7 +183,7 @@ h1 /* .post-title */ {
 /*    font-size: 42px; */
     letter-spacing: -1px;
     line-height: 1;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: 'Baloo 2', cursive;
 		color: #522d80;
 
     @include media-query($on-laptop) {
@@ -195,7 +195,7 @@ h1 /* .post-title */ {
     margin-bottom: $spacing-unit;
 
     h2 {
-		font-family: 'Titillium Web', sans-serif;
+		font-family: 'Baloo 2', cursive;
 	font-weight: 500;
 /*        font-size: 32px; */
 
@@ -237,7 +237,7 @@ ul.listing {
 ul.listing li.listing-seperator {
 	padding-top: 15px;
 	font-weight: bold;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Baloo 2', cursive;
 	font-size: 1.17em;
 }
 
@@ -252,6 +252,6 @@ ul.listing li.listing-item time {
 ul.listing li.listing-item a {
 	color: $clemson-purple;
 	font-weight: 400;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Baloo 2', cursive;
 }
 
