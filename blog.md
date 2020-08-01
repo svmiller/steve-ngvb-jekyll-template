@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Our published Articles related Science, Technology, innovation and science
+permalink: 
 ---
 
 Tell us about your blog. Hopefully it's cool.
