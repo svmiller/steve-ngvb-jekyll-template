@@ -3,8 +3,8 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $clemson-purple;
-    min-height: 56px;
+	border-bottom: 1px solid $clemson-purple;
+    min-height: 40px;
     background: $clemson-orange;
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -12,14 +12,14 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 30px;
 /* 		margin-top: 15px;
     line-height: 40px; */
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
     font-weight: 500;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: 'Baloo 2', cursive;;
     color: #ffffff;
     &,
     &:visited {
@@ -53,7 +53,7 @@
 	padding: 0;
 	list-style-type: none;
 	text-transform: uppercase;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: 'Baloo 2', cursive;;
 
 }
 
