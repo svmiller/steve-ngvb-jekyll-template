@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our published Articles related Science, Technology, innovation and science
-permalink: 
+permalink: /
 ---
 
 Tell us about your blog. Hopefully it's cool.
