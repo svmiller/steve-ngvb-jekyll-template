@@ -4,7 +4,7 @@ title: Our published Articles related Science, Technology, innovation and scienc
 permalink: /blog/
 ---
 
-Tell us about your blog. Hopefully it's cool.
+Science | Technology | innovation | Physics
 
 <ul class="listing">
 {% for post in site.posts %}
