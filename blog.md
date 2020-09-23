@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Blog
+title: Our published Articles related Science, Technology, innovation and science
 permalink: /blog/
 ---
 
-Tell us about your blog. Hopefully it's cool.
+Science | Technology | innovation | Physics
 
 <ul class="listing">
 {% for post in site.posts %}
